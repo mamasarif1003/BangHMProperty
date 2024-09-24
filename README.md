@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 </head>
 
-<body>
+<!-- <body>
     <h1>Cara Instalasi</h1>
     <img src="https://karedok.net/wp-content/uploads/2018/03/laravel-logo-696x290.jpg" alt="">
     <ul>
@@ -16,6 +16,6 @@
         <li>5. Ketik php artisan serve di terminal</li>
         <li>6. Buka localhost:8000 di browser</li>
     </ul>
-</body>
+</body> -->
 
 </html>
